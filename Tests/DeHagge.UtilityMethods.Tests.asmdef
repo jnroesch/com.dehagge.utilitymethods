@@ -1,0 +1,17 @@
+{
+    "name": "DeHagge.UtilityMethods.Tests",
+    "references": [
+        "GUID:38454f476796034489cbc1683e5b84cc"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
